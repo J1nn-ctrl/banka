@@ -1,0 +1,2 @@
+# banka
+Earn mony
